@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cerealsmok3r
-- 👀 I’m interested in automation and data visualisation
-- 🌱 I’m currently learning the basics of python 
-- 💞️ I’m looking to collaborate on nothing for now
+- 👀 I’m interested in automation and scriptting
+- 🌱 I’m currently learning the basic building blocks of python 
+- 💞️ I’m looking to collaborate on home automation 
 - 📫 How to reach me at insta @avaaalanche
 
 <!---
